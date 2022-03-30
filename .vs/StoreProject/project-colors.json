@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cb521298-34a7-42c4-8e12-d5cd94a267e9": {
+      "ProjectGuid": "cb521298-34a7-42c4-8e12-d5cd94a267e9",
+      "DisplayName": "StoreProject",
+      "ColorIndex": 0
+    },
+    "fa17f920-3522-4d9a-8e4f-449123614609": {
+      "ProjectGuid": "fa17f920-3522-4d9a-8e4f-449123614609",
+      "DisplayName": "StoreClasses",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

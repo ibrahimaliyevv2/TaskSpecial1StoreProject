@@ -1,0 +1,33 @@
+C:/Users/Eagha/Desktop/CodeLessons/BP202/12. 29032022/StoreProject/StoreProject/bin/Debug/netcoreapp3.1/StoreProject.exe
+C:/Users/Eagha/Desktop/CodeLessons/BP202/12. 29032022/StoreProject/StoreProject/bin/Debug/netcoreapp3.1/StoreProject.deps.json
+C:/Users/Eagha/Desktop/CodeLessons/BP202/12. 29032022/StoreProject/StoreProject/bin/Debug/netcoreapp3.1/StoreProject.runtimeconfig.json
+C:/Users/Eagha/Desktop/CodeLessons/BP202/12. 29032022/StoreProject/StoreProject/bin/Debug/netcoreapp3.1/StoreProject.runtimeconfig.dev.json
+C:/Users/Eagha/Desktop/CodeLessons/BP202/12. 29032022/StoreProject/StoreProject/bin/Debug/netcoreapp3.1/StoreProject.dll
+C:/Users/Eagha/Desktop/CodeLessons/BP202/12. 29032022/StoreProject/StoreProject/bin/Debug/netcoreapp3.1/StoreProject.pdb
+C:/Users/Eagha/Desktop/CodeLessons/BP202/12. 29032022/StoreProject/StoreProject/bin/Debug/netcoreapp3.1/StoreClasses.dll
+C:/Users/Eagha/Desktop/CodeLessons/BP202/12. 29032022/StoreProject/StoreProject/bin/Debug/netcoreapp3.1/StoreClasses.pdb
+C:/Users/Eagha/Desktop/CodeLessons/BP202/12. 29032022/StoreProject/StoreProject/obj/Debug/netcoreapp3.1/StoreProject.csproj.AssemblyReference.cache
+C:/Users/Eagha/Desktop/CodeLessons/BP202/12. 29032022/StoreProject/StoreProject/obj/Debug/netcoreapp3.1/StoreProject.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Eagha/Desktop/CodeLessons/BP202/12. 29032022/StoreProject/StoreProject/obj/Debug/netcoreapp3.1/StoreProject.AssemblyInfoInputs.cache
+C:/Users/Eagha/Desktop/CodeLessons/BP202/12. 29032022/StoreProject/StoreProject/obj/Debug/netcoreapp3.1/StoreProject.AssemblyInfo.cs
+C:/Users/Eagha/Desktop/CodeLessons/BP202/12. 29032022/StoreProject/StoreProject/obj/Debug/netcoreapp3.1/StoreProject.csproj.CoreCompileInputs.cache
+C:/Users/Eagha/Desktop/CodeLessons/BP202/12. 29032022/StoreProject/StoreProject/obj/Debug/netcoreapp3.1/StoreProject.csproj.CopyComplete
+C:/Users/Eagha/Desktop/CodeLessons/BP202/12. 29032022/StoreProject/StoreProject/obj/Debug/netcoreapp3.1/StoreProject.dll
+C:/Users/Eagha/Desktop/CodeLessons/BP202/12. 29032022/StoreProject/StoreProject/obj/Debug/netcoreapp3.1/StoreProject.pdb
+C:/Users/Eagha/Desktop/CodeLessons/BP202/12. 29032022/StoreProject/StoreProject/obj/Debug/netcoreapp3.1/StoreProject.genruntimeconfig.cache
+/Users/ibrahimaliyevv/Desktop/StoreProject/StoreProject/bin/Debug/netcoreapp3.1/StoreProject.deps.json
+/Users/ibrahimaliyevv/Desktop/StoreProject/StoreProject/bin/Debug/netcoreapp3.1/StoreProject.runtimeconfig.json
+/Users/ibrahimaliyevv/Desktop/StoreProject/StoreProject/bin/Debug/netcoreapp3.1/StoreProject.runtimeconfig.dev.json
+/Users/ibrahimaliyevv/Desktop/StoreProject/StoreProject/bin/Debug/netcoreapp3.1/StoreProject.dll
+/Users/ibrahimaliyevv/Desktop/StoreProject/StoreProject/bin/Debug/netcoreapp3.1/StoreProject.pdb
+/Users/ibrahimaliyevv/Desktop/StoreProject/StoreProject/bin/Debug/netcoreapp3.1/StoreClasses.dll
+/Users/ibrahimaliyevv/Desktop/StoreProject/StoreProject/bin/Debug/netcoreapp3.1/StoreClasses.pdb
+/Users/ibrahimaliyevv/Desktop/StoreProject/StoreProject/obj/Debug/netcoreapp3.1/StoreProject.csproj.AssemblyReference.cache
+/Users/ibrahimaliyevv/Desktop/StoreProject/StoreProject/obj/Debug/netcoreapp3.1/StoreProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimaliyevv/Desktop/StoreProject/StoreProject/obj/Debug/netcoreapp3.1/StoreProject.AssemblyInfoInputs.cache
+/Users/ibrahimaliyevv/Desktop/StoreProject/StoreProject/obj/Debug/netcoreapp3.1/StoreProject.AssemblyInfo.cs
+/Users/ibrahimaliyevv/Desktop/StoreProject/StoreProject/obj/Debug/netcoreapp3.1/StoreProject.csproj.CoreCompileInputs.cache
+/Users/ibrahimaliyevv/Desktop/StoreProject/StoreProject/obj/Debug/netcoreapp3.1/StoreProject.csproj.CopyComplete
+/Users/ibrahimaliyevv/Desktop/StoreProject/StoreProject/obj/Debug/netcoreapp3.1/StoreProject.dll
+/Users/ibrahimaliyevv/Desktop/StoreProject/StoreProject/obj/Debug/netcoreapp3.1/StoreProject.pdb
+/Users/ibrahimaliyevv/Desktop/StoreProject/StoreProject/obj/Debug/netcoreapp3.1/StoreProject.genruntimeconfig.cache
